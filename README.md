@@ -70,8 +70,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kobraop&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kobraop&show_icons=true&locale=en&layout=compact" alt="kobraop" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=KobraOp&theme=tokyonight" alt="KobraOp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kobraop&show_icons=true&locale=en" alt="kobraop" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kobraop&theme=default" alt="kobraop" /></p>
