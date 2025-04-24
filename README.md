@@ -17,9 +17,11 @@
 
 ---
 
+<br><br>
+
 ### 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KobraOp&theme=tokyo-night&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kobraop&theme=tokyo-night&hide_border=true)
 
 <br><br>
 
