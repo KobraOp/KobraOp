@@ -19,23 +19,35 @@
 
 <h2 align="center">🚀 Top Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/KobraOp/Backup_Engine">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=Backup_Engine&theme=tokyonight" />
-  </a>
-  <a href="ttps://github.com/KobraOp/portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=portfolio&theme=tokyonight" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/KobraOp/Backup_Engine">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=Backup_Engine&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KobraOp/portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=portfolio&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/KobraOp/Mr.-Manager">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=Mr.-Manager&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KobraOp/BubbleShare">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=BubbleShare&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <a href="https://github.com/KobraOp/Mr.-Manager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=Mr.-Manager&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/KobraOp/BubbleShare">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=BubbleShare&theme=tokyonight" />
-  </a>
-</p>
 
 
 
