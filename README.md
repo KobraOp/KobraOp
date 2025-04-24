@@ -78,14 +78,6 @@
 
 ---
 
-### ✨ Fun Animation
-
-<p align="center">
-  <img src="https://github.com/KobraOp/KobraOp/assets/109604016/1f75e2c0-3bdf-4bcb-8be3-12996f9a2d85" width="400" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
