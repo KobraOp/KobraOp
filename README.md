@@ -4,12 +4,17 @@
 <h3 align="center">A passionate Android, Server-side Python, and AI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Android+Developer;Python+Backend+Developer;AI+Enthusiast;Full-Stack+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Android+Developer;Python+Backend+Developer;AI+Enthusiast;Full-Stack+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kobraop&label=Profile+views&color=0e75b6&style=flat" alt="kobraop" />
 </p>
+
+---
+
+### 💼 Check out my portfolio
+🚀 [https://www.mohammadramiz.in](https://www.mohammadramiz.in)
 
 ---
 
@@ -23,7 +28,7 @@
 
 ---
 
-### 🚀 Languages & Tools
+### 🔧 Tools & Tech Stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" />
@@ -44,15 +49,23 @@
 
 ---
 
-### 📈 Contribution Graph
+### ✨ Fun Animation
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kobraop&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github.com/KobraOp/KobraOp/assets/109604016/1f75e2c0-3bdf-4bcb-8be3-12996f9a2d85" width="400" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KobraOp&theme=tokyo-night&hide_border=true" alt="Commit Graph" />
+</p>
+
+---
+
+### 🚀 Featured Projects
 
 <table align="center">
   <tr>
@@ -78,8 +91,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobraop&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kobraop&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobraOp&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KobraOp&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
