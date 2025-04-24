@@ -21,19 +21,19 @@
 
 <p align="center">
   <a href="https://github.com/KobraOp/Backup_Engine">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=your-repo-1&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=Backup_Engine&theme=tokyonight" />
   </a>
   <a href="ttps://github.com/KobraOp/portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=your-repo-2&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=portfolio&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/KobraOp/Mr.-Manager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=your-repo-3&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=Mr.-Manager&theme=tokyonight" />
   </a>
-  <a href="https://github.com/KobraOp/your-repo-4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=your-repo-4&theme=tokyonight" />
+  <a href="https://github.com/KobraOp/BubbleShare">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=BubbleShare&theme=tokyonight" />
   </a>
 </p>
 
