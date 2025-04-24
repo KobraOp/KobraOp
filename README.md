@@ -17,6 +17,15 @@
 
 ---
 
+### 📊 Top Repository
+
+### 📂 All Public Repositories
+
+- 🔗 [Repo 1](https://github.com/KobraOp/Backup_Engine)
+- 🔗 [Repo 2](https://github.com/KobraOp/portfolio)
+- 🔗 [Repo 3](https://github.com/KobraOp/Mr.-Manager)
+
+
 ### 🌐 Connect with me:
 
 <p align="left">
@@ -73,5 +82,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kobraop&show_icons=true&locale=en&layout=compact" alt="kobraop" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kobraop&show_icons=true&locale=en" alt="kobraop" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kobraop&theme=tokyonight)](https://git.io/streak-stats)
