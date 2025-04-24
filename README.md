@@ -13,8 +13,24 @@
 
 ---
 
-### 💼 Check out my portfolio
-🚀 [https://www.mohammadramiz.in](https://www.mohammadramiz.in)
+### 🖥️ Portfolio
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🌐 Visit My Portfolio</h3>
+        <a href="https://www.mohammadramiz.in" target="_blank">
+          <img src="https://img.shields.io/badge/-mohammadramiz.in-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <p style="font-size: 14px;">Explore my projects, skills, and more on my personal website.</p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/730703/230158143-6c75b1b3-7f00-4a42-bc88-18a7c9e86b4e.gif" alt="Portfolio Preview" width="300px" style="border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -107,20 +123,27 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://twitter.com/mohammad__ramiz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" />
+  <a href="https://www.linkedin.com/in/mohammad-ramiz-886468217" target="_blank" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/mohammad-ramiz-886468217" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
+  <a href="https://twitter.com/mohammad__ramiz" target="_blank" title="Follow me on Twitter">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/kobraop" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="30" />
+  <a href="https://kaggle.com/kobraop" target="_blank" title="Check out my Kaggle">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:ramizanas6@gmail.com" target="_blank" title="Email me">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.mohammadramiz.in" target="_blank" title="Visit my Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
+
 
 ✨ *Built with ❤️ by Mohammad Ramiz*
