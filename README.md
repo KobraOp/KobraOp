@@ -13,45 +13,48 @@
 
 ---
 
-### 🖥️ Portfolio
+<h2 align="center">💼 My Portfolio</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🌐 Visit My Portfolio</h3>
-        <a href="https://www.mohammadramiz.in" target="_blank">
-          <img src="https://img.shields.io/badge/-mohammadramiz.in-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <p style="font-size: 14px;">Explore my projects, skills, and more on my personal website.</p>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/730703/230158143-6c75b1b3-7f00-4a42-bc88-18a7c9e86b4e.gif" alt="Portfolio Preview" width="300px" style="border-radius: 10px;" />
-      </td>
-    </tr>
-  </table>
+<div align="center" style="margin: 20px 0;">
+  <a href="https://www.mohammadramiz.in" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Visit%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </div>
+
+<p align="center">
+  🚀 Dive into my personal space on the web – a reflection of my development journey, projects, and passions.  
+  From elegant UIs to backend magic, it’s all crafted with ❤️.
+</p>
+
+<p align="center">
+  <a href="https://www.mohammadramiz.in" target="_blank">
+    <img src="https://img.shields.io/badge/View_Site-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 🧠 About Me
 
-<table>
-  <tr>
-    <td>
-      
-- 🔭 I’m currently working on **AI-powered mobile applications**  
-- 🌱 Learning **Android and Artificial Intelligence**  
-- 💬 Ask me about **Android, Python, Flask, ML**  
-- 📫 Reach me at **ramizanas6@gmail.com**  
-- ⚡ Fun Fact: *Coding is my meditation*
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="left" width="60%">
+        <ul>
+          <li>🔭 I’m currently working on <strong>AI-powered mobile applications</strong></li>
+          <li>🌱 Learning <strong>Android and Artificial Intelligence</strong></li>
+          <li>💬 Ask me about <strong>Android, Python, Flask, ML</strong></li>
+          <li>📫 Reach me at <strong>ramizanas6@gmail.com</strong></li>
+          <li>⚡ Fun Fact: <em>Coding is my meditation</em></li>
+        </ul>
+      </td>
+      <td align="right" width="40%">
+        <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-    </td>
-    <td>
-      <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300" />
-    </td>
-  </tr>
-</table>
 
 
 ### 🔧 Tools & Tech Stack
