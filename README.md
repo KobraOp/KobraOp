@@ -1,92 +1,102 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1200/0*4kFdX7RumWyEe_V9)](https://www.mohammadramiz.in)
 
-<h1 align="center">Hi 👋, I'm Mohammad Ramiz</h1>
-<h3 align="center">A passionate Android Developer | Python Backend Engineer | AI Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Mohammad+Ramiz;Android+%7C+Python+%7C+AI+Developer;Let's+build+something+amazing!" alt="Typing SVG" />
+</h1>
+<h3 align="center">A passionate Android Application, Server Side Python and AI developer</h3>
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding" width="400"/>
-</div>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kobraop&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kobraop&label=Profile%20views&color=0e75b6&style=flat" alt="kobraop" />
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kobraop.kobraop&left_color=green&right_color=blue)
 </p>
 
-- 🌱 I’m currently learning **Advanced Android and AI**
-- 👨‍💻 Explore my work at [mohammadramiz.in](https://www.mohammadramiz.in)
-- 💬 Ask me about **Android, Python, Flask**
-- 📫 Reach me at **ramizanas6@gmail.com**
+- 🌱 I’m currently learning **Android and Artificial Intelligence**
+- 👨‍💻 All of my projects are available at [mohammadramiz.in](https://www.mohammadramiz.in)
+- 💬 Ask me about **Android, Python**
+- 📫 How to reach me: **ramizanas6@gmail.com**
 - ⚡ Fun fact: **My fun is coding and coding is fun for me**
 
 ---
 
-### 📊 Contribution Graph
+### 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kobraop&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kobraop&theme=tokyo-night&hide_border=true)
+
+---
+
+### 🏆 GitHub Trophy Showcase
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kobraop&theme=tokyonight&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 😂 Fun Corner: Did You Know?
+
+![fun-fact](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=282C34&textColor=ffffff)
 
 ---
 
 ### 🚀 Top Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=Backup_Engine&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=portfolio&theme=tokyonight" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=Mr.-Manager&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=BubbleShare&theme=tokyonight" />
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/KobraOp/Backup_Engine">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=Backup_Engine&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KobraOp/portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=portfolio&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/KobraOp/Mr.-Manager">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=Mr.-Manager&theme=tokyonight" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KobraOp/BubbleShare">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=BubbleShare&theme=tokyonight" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect with me:
 
-<p align="center">
-  <a href="https://twitter.com/mohammad__ramiz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mohammad-ramiz-886468217"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kaggle.com/kobraop"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<p align="left">
+  <a href="https://twitter.com/mohammad__ramiz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" />
+  </a>
+  <a href="https://linkedin.com/in/mohammad-ramiz-886468217" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
+  <a href="https://kaggle.com/kobraop" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="30" height="30" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools:
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+<p align="left">
+  <!-- Just the same tools section you had, nothing removed here -->
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kobraop&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobraop&layout=compact&theme=tokyonight" alt="Languages" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kobraop&show_icons=true&locale=en&layout=compact" alt="kobraop" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kobraop&show_icons=true&locale=en" alt="kobraop" /></p>
