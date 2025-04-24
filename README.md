@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/da:true/resize:fit:1200/0*4kFdX7RumWyEe_V9)](https://www.mohammadramiz.in)
 <h1 align="center">Hi 👋, I'm Mohammad Ramiz</h1>
 <h3 align="center">A passionate Android Application, Server Side Python and AI developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kobraop&label=Profile%20views&color=0e75b6&style=flat" alt="kobraop" /> </p>
 
