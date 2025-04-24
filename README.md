@@ -17,13 +17,26 @@
 
 ---
 
-### 📊 Top Repository
+<h2 align="center">🚀 Top Projects</h2>
 
-### 📂 All Public Repositories
+<p align="center">
+  <a href="https://github.com/KobraOp/Backup_Engine">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=your-repo-1&theme=tokyonight" />
+  </a>
+  <a href="ttps://github.com/KobraOp/portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=your-repo-2&theme=tokyonight" />
+  </a>
+</p>
 
-- 🔗 [Repo 1](https://github.com/KobraOp/Backup_Engine)
-- 🔗 [Repo 2](https://github.com/KobraOp/portfolio)
-- 🔗 [Repo 3](https://github.com/KobraOp/Mr.-Manager)
+<p align="center">
+  <a href="https://github.com/KobraOp/Mr.-Manager">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=your-repo-3&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/KobraOp/your-repo-4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobraOp&repo=your-repo-4&theme=tokyonight" />
+  </a>
+</p>
+
 
 
 ### 🌐 Connect with me:
