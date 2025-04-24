@@ -74,4 +74,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kobraop&show_icons=true&locale=en" alt="kobraop" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KobraOp&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kobraop&theme=tokyonight)](https://git.io/streak-stats)
